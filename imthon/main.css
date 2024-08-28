@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.nav {
+    background-color:#272C3D;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+
+
+ul {
+    gap: 20px;
+    display: flex;
+    color: #ffffff;
+}
+
+
+.div {
+    background-color: #404864;
+    width: 241px;
+    padding: 8px;
+    display: flex;
+    justify-content: end;
+    border-radius: 8px;
+
+}
+
+.nav__right {
+    display: flex;
+    gap: 43px;
+}
+
+select {
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
+
+.h {
+    text-align: center;
+}
+
+.div2 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.div2 .arrows {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 80px;
+}
+
+.div1 img {
+    width: 100%;
+}
+
+
+.h1 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.section {
+    width: 740px;
+    margin: 0 auto;
+}
+
+
+.section_card {
+    display: flex;
+}
+
+
+.section_text {
+    width: 323px;
+    margin: 0 auto;
+}
+
+
+
+
+.h2 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.section1 {
+    width: 740px;
+    margin: 0 auto;
+}
+
+
+.section_card1 {
+    display: flex;
+}
+
+
+.section_text1 {
+    width: 323px;
+    margin: 0 auto;
+}
+
+
+.img1 {
+    height: 45px;
+
+}
+
+.img2 {
+    height: 45px;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    gap: 41px;
+}
+
+.body{
+    background-color: black;
+}
+
+.x{
+    color: #ffffff;
+    background-color: black;
+}
+
+
+.dd {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+}
+.text4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text3 {
+    gap: 20px;
+    display: flex;
+    
+}
+
+.footer-list{
+    color: #fff;
+}
+.text2{
+    display: flex;
+    justify-content: space-between;
+}
